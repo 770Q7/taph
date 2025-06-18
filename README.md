@@ -1,2 +1,8 @@
 # taph
-The code for Taph’s page
+Taph is an exciting online building toy and playground where creativity comes to life and fun knows no bounds. Whether you’re hanging out solo or connecting with friends, Taph offers a vibrant world where you can express yourself and let your imagination run wild. Jump in and start exploring countless possibilities, from designing your own spaces to joining others in their unique creations. It’s a welcoming, community-driven platform where everyone can find something to love.
+
+One of the best things about Taph is the ability to personalize your experience. You can customize your avatar with a wide range of fun outfits and hats, letting your personality shine through. The shop is always stocked with new hats and accessories, so you can keep your look fresh and unique. Whether you prefer a wacky volcano hat or a funky musical instrument accessory, there’s always something new to discover and collect.
+
+But Taph isn’t just about looking cool – it’s also about making and sharing your own games. With our intuitive editor, you can design your own adventures and challenges, then publish them for others to play. The editor is easy to pick up, even if you’re new to game creation, and you’ll love seeing other people enjoy what you’ve built. Collaboration is at the heart of Taph, so team up with friends or make new ones as you create and play together.
+
+Best of all, Taph is completely free to play. You don’t need to worry about hidden fees or paywalls – everything is open and accessible from the start. With tons of creative tools, a friendly community, and endless ways to play, Taph is the perfect place to unleash your creativity and have fun. Dive in and see what amazing worlds you can create!
